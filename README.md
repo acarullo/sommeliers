@@ -1,8 +1,5 @@
 # Sommeliers
 ##### UnOfficial Repo
-#
-#
-#
 
 ## Overview
 Sommeliers is an Apache Syncope-based solution that aims to manage user memberships within groups based on their individual attitude to be "sommelier" about a particular topic.
